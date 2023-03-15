@@ -22,4 +22,8 @@ I AM Dong.
 I AM Dong.
 I AM Dong.
 I AM Dong.
+<<<<<<< HEAD
 master
+=======
+hot-fix
+>>>>>>> hot-fix
