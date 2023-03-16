@@ -22,8 +22,6 @@ I AM Dong.
 I AM Dong.
 I AM Dong.
 I AM Dong.
-<<<<<<< HEAD
 master
-=======
 hot-fix
->>>>>>> hot-fix
+拉取远程库到本地库
